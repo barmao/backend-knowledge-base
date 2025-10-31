@@ -1,7 +1,21 @@
 # Backend Knowledge Base 🚀
 
-*A living repository documenting the journey through backend engineering, system architecture, and distributed systems.*
+This is both a personal learning journal and a community resource with a structured collection of notes, research, and code samples covering:
 
-This is both a personal learning journal and a community resource where complex technical concepts are broken down into clear, understandable pieces. Here you'll find structured notes on everything from database internals to microservices patterns, complete with practical examples and real-world case studies.
+## Core Areas
+- **System Design** - Microservices, scaling patterns, architecture decisions
+- **Databases** - PostgreSQL, Redis, MongoDB, indexing, replication
+- **APIs & Infrastructure** - REST, GraphQL, Docker, Kubernetes, AWS
+- **Message Systems** - Kafka, RabbitMQ, event-driven architecture
+- **DevOps & Observability** - Monitoring, logging, CI/CD
+
+## Structure
+- `guides/` - Conceptual deep dives
+- `technologies/` - Specific tool documentation  
+- `patterns/` - Architectural solutions
+- `case-studies/` - Real-world implementations
+- `code-samples/` - Practical examples
+
+*Built to learn, reference, and share backend engineering knowledge.*
 
 **📖 Read | 🛠️ Reference | 🚀 Learn**

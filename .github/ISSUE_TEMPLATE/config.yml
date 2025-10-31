@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Learning Note
+    url: https://github.com/yourusername/your-repo/issues/new?template=learning-note.md
+    about: Document something you learned
+  - name: 💬 Get Writing Help
+    url: https://github.com/yourusername/your-repo/discussions
+    about: Ask questions about technical writing

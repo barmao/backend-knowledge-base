@@ -1,3 +1,10 @@
+---
+name: "📚 Learning Note"
+description: "Document something you learned about backend development"
+title: "Learn: [Topic Name]"
+labels: ["learning", "documentation"]
+---
+
 ## What I Learned
 [Brief description of the concept]
 
